@@ -9,7 +9,7 @@ To run the projects, you need to have Python and TensorFlow installed. Follow th
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ml-neural-networks-projects.git
+   git clone https://github.com/Mlika-Gaith/machine-learning---neural-networks.git
    cd ml-neural-networks-projects
    ```
 
